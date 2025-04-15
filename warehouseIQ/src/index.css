@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #121212;
+  color: #ffffff;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.MuiDrawer-paper {
+  background-color: #1e1e1e;
+  color: #ffffff;
+}
+
+.MuiListItem-root {
+  color: #ffffff;
+}
+
+.MuiListItem-root:hover {
+  background-color: rgba(255, 255, 255, 0.08);
+}
+
+.MuiListItem-root.Mui-selected {
+  background-color: rgba(76, 76, 230, 0.16);
+}
+
+.MuiListItem-root.Mui-selected:hover {
+  background-color: rgba(76, 76, 230, 0.24);
+}
+
+.MuiAppBar-root {
+  background-color: #1e1e1e !important;
+}
+
+.MuiCard-root {
+  background-color: #1e1e1e;
+  color: #ffffff;
+}
+
+.MuiTextField-root {
+  background-color: #2d2d2d;
+  border-radius: 4px;
+}
+
+.MuiInputBase-input {
+  color: #ffffff !important;
+}
+
+.MuiInputLabel-root {
+  color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.MuiOutlinedInput-notchedOutline {
+  border-color: rgba(255, 255, 255, 0.23) !important;
+}
+
+.MuiButton-contained {
+  background-color: #4c4ce6 !important;
+}
+
+.MuiButton-contained:hover {
+  background-color: #3a3ad1 !important;
+}
