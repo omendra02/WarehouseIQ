@@ -1,0 +1,9 @@
+{
+  "name": "warehouseIQ",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@mui/x-date-pickers": "^7.28.3",
+    "date-fns": "^4.1.0"
+  }
+}
